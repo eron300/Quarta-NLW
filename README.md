@@ -1,6 +1,5 @@
 <h1>Projeto realizando durante o segundo dia da Next Level Week feita pela Rocketseat.</h1>
-
-Explicação em inglês de como iniciar o projeto: 
+ 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
